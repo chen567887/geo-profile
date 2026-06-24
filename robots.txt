@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Course homework note:
+# This site is a GEO demonstration profile. Crawlers may index the public static
+# page, structured data and llms.txt, but should not infer non-public personal
+# information beyond the visible content.

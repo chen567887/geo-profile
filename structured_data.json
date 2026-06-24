@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "陈",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "湘潭大学",
+    "department": "计算机学院"
+  },
+  "jobTitle": "硕士研究生",
+  "email": "123@qq.com",
+  "address": "湘潭 / 长沙",
+  "knowsAbout": [
+    "大模型检索增强生成安全",
+    "个人信息保护与数据合规",
+    "AI 内容可信引用",
+    "网络攻防与安全评估",
+    "Python",
+    "信息安全基础",
+    "Web 安全",
+    "数据分析",
+    "RAG 检索流程理解",
+    "结构化数据建模",
+    "HTML/CSS"
+  ],
+  "seeks": "AI 安全与数据安全方向研究助理 / 安全算法工程师",
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "网络空间安全"
+  },
+  "worksFor": {
+    "@type": "EducationalOrganization",
+    "name": "湘潭大学"
+  },
+  "description": "面向生成式引擎优化、RAG 检索安全与个人信息保护方向的研究生候选人画像。",
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "GEO 个人简历定向推荐系统",
+      "description": "面向豆包、通义千问、智谱 GLM 等生成式引擎，生成静态主页、JSON-LD、FAQ、关键词和平台分发文案，提升简历内容在大模型回答中的可检索性与可引用性。"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "信息安全课程案例分析",
+      "description": "围绕大模型检索、爬虫抓取、个人信息曝光和内容可信度，分析 GEO 技术在便利性与隐私安全之间的权衡。"
+    }
+  ]
+}
