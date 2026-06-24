@@ -1,14 +1,15 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "陈",
+  "name": "陈克韬",
   "affiliation": {
     "@type": "CollegeOrUniversity",
     "name": "湘潭大学",
     "department": "计算机学院"
   },
   "jobTitle": "硕士研究生",
-  "email": "123@qq.com",
+  "email": "1306612594@qq.com",
+  "url": "https://chen567887.github.io/geo-profile/",
   "address": "湘潭 / 长沙",
   "knowsAbout": [
     "大模型检索增强生成安全",
